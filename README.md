@@ -17,14 +17,14 @@ Próximo
 =====
 Establecer estética, paleta de colores, grosor de la línea, y posible animación entre la última lectura de coordenadas y la anterior. Identificar cada punto con su propio color y dar las posibles alternativas para el número de ruta. Habilidad de acercar y alejar el mapa (usando losas).
 
+
+
 English
 =======
-
 Processing sketch which uses the http://trenurbanoapp.com/app/mapper API to track Puerto Rico's AMA buses in real-time.
 
 So Far
 ======
-
 Using an image downloaded from openstreetmap.org I was able to get the coordinates related to the boarders of that image,
 and map that to its width and height in pixels. This means that I'm able to display coordinates correctly on the map.
 
@@ -34,7 +34,6 @@ where many bus route overlap.
 
 To Do
 =====
-
 Determine aesthetics. Color palette, stroke thickness, possible animation between previous and current readings.
 Identify each dot with it's own color and give possible alternatives to which route it could be on. 
 Ability to zoom in/out (this is using tiles).
