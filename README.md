@@ -1,7 +1,7 @@
 
 liveAMA
 =======
-!(http://github.com/epicjefferson/liveAMA/liveAMA.png "Optional title")
+!(https://github.com/epicjefferson/liveAMA/blob/master/liveAMA.png "unoficial")
 
 Español
 =======
