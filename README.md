@@ -1,7 +1,6 @@
 
 liveAMA
 =======
-!(https://github.com/epicjefferson/liveAMA/blob/master/liveAMA.png "unoficial")
 
 Español
 =======
